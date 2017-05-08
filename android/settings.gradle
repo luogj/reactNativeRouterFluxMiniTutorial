@@ -1,0 +1,3 @@
+rootProject.name = 'reactNativeRouterFluxMiniTutorial'
+
+include ':app'
